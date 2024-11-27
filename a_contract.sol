@@ -1,4 +1,4 @@
-pragma solidity ^0.5.2;
+pragma solidity ^0.8.19;
 
 contract VendingMachine {
     string public author = "xyz-pc-123";
